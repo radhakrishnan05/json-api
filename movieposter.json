@@ -11,24 +11,27 @@
       }
     },
     {
-      "name": "Movie Title 2",
-      "language": "Hindi",
+      "name": "Nirangal Moondru",
+      "language": "Tamil",
       "rating": 3,
-      "poster": "path/to/poster2.jpg",
-      "watchLink": "path/to/watch2",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDI3YTVhZTQtNjk5YS00OWFjLWI4NDEtNzBmYzMzODE1ODA3XkEyXkFqcGc@._V1_.jpg",
+      "watchLink": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/watch/6755c11d3915380173213906",
       "downloadOptions": {
-        "480p": "path/to/movie_480p.mp4",
-        "720p": "path/to/movie_720p.mp4"
+        "480p": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6755c1cb391538017321391c",
+        "720p": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6755c04339153801732138d7",
+        "1080p": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6755c11d3915380173213906"
       }
     },
     {
-      "name": "Movie Title 3",
-      "language": "Spanish",
+      "name": "Kanguva",
+      "language": "Tamil",
       "rating": 1,
-      "poster": "path/to/poster3.jpg",
-      "watchLink": "path/to/watch3",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTEyMzJkZjUtM2ZiOS00NzQ1LTgzZjYtYmJiMTg3ZGNlMzc0XkEyXkFqcGc@._V1_.jpg",
+      "watchLink": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/watch/6755c2a53915380173213965",
       "downloadOptions": {
-        "720p": "path/to/movie_720p.mp4"
+         "480p": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6755c28f391538017321394e",
+        "720p": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6755c29e3915380173213952",
+        "1080p": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6755c2a53915380173213965"
       }
     }
   ]
