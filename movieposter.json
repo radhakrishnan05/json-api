@@ -1,5 +1,17 @@
 [
     {
+      "name": "Kanakarajyam",
+      "language": "Malayalam",
+      "rating": 3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzU2MWE5MjItYmFhMS00MDdjLWE2MmUtZDRmYzY5OTgyMDUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "watchLink": "http://following-scarlett-kismis-b9c9448e.koyeb.app/watch/247174/Kanakarajyam+%282024%29+%5BMalayalam+-+720p+HQ+HDRip+-+x264+-+%5BDD.mkv?hash=AgADVh",
+      "downloadOptions": {
+         "480p": "",
+        "720p": "",
+        "1080p": ""
+      }
+    },
+    {
       "name": "Venom The Last dance",
       "language": "Tamil",
       "rating": 3,
