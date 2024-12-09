@@ -69,5 +69,41 @@
         "720p": "",
         "1080p": ""
       }
+    },
+    {
+      "name": "Lucky Baskhar",
+      "language": "Tamil",
+      "rating": 3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjEzN2ZjYjUtZTI3NC00MzMyLWJiNDAtMDBiZGEzNTBiY2RkXkEyXkFqcGc@._V1_.jpg",
+      "watchLink": "http://following-scarlett-kismis-b9c9448e.koyeb.app/watch/246754/Lucky+Baskhar+%282024%29%5BTamil+-+1080p+HD+AVC+UNTOUCHED+-+x2.mkv?hash=AgADyh",
+      "downloadOptions": {
+         "480p": "",
+        "720p": "",
+        "1080p": ""
+      }
+    },
+    {
+      "name": "Brother",
+      "language": "Tamil",
+      "rating": 1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDQ3NTRjZWEtYWViMy00NzNhLWFlNjQtNzMxYTY2NTBkMzM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "watchLink": "http://following-scarlett-kismis-b9c9448e.koyeb.app/watch/246765/Brother.2024.2160p.ZEE5.WEB-DL.DD%2B5.1.H.265-Telly.mkv?hash=AgAD9A",
+      "downloadOptions": {
+         "480p": "",
+        "720p": "",
+        "1080p": ""
+      }
+    },
+    {
+      "name": "Vettaiyan",
+      "language": "Tamil",
+      "rating": 2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDQ3NTRjZWEtYWViMy00NzNhLWFlNjQtNzMxYTY2NTBkMzM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "watchLink": "http://following-scarlett-kismis-b9c9448e.koyeb.app/watch/246770/Vettaiyan+2024+1080p+10bit+DS4K+AMZN+WEBRip+TAM+DDP5.1+A.mkv?hash=AgADTA",
+      "downloadOptions": {
+         "480p": "",
+        "720p": "",
+        "1080p": ""
+      }
     }
   ]
