@@ -105,5 +105,29 @@
         "720p": "",
         "1080p": ""
       }
+    },
+    {
+      "name": "Petta Rap",
+      "language": "Tamil",
+      "rating": 2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDdkZmE4ZDUtZGVhNS00MDg0LThjYjYtMTAzYTEwMWYwNTUzXkEyXkFqcGc@._V1_.jpg",
+      "watchLink": "http://following-scarlett-kismis-b9c9448e.koyeb.app/watch/246801/Petta+Rap+%282024%29+%5BTamil+-+1080p+HQ+HDRip+-+x264+-+%5BDDP+5.1+%28.mkv?hash=AgAD9B",
+      "downloadOptions": {
+         "480p": "",
+        "720p": "",
+        "1080p": ""
+      }
+    },
+    {
+      "name": "Nayanthara Beyond the Fairy Tale",
+      "language": "Tamil",
+      "rating": 2,
+      "poster": "https://images.ctfassets.net/4cd45et68cgf/6UxQbsroumirjjJJ6KqXTO/d805264343eb36bc905a49dd2a6f7cc6/NFIN_Nayanthara_4X5_DateAnnouncement.png?w=2000",
+      "watchLink": "http://following-scarlett-kismis-b9c9448e.koyeb.app/watch/246818/Nayanthara.Beyond.the.Fairy.Tale.2024.1080p.NF.WEB-DL.DDP5.1.mkv?hash=AgAD3x",
+      "downloadOptions": {
+         "480p": "",
+        "720p": "",
+        "1080p": ""
+      }
     }
   ]
