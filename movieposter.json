@@ -57,5 +57,17 @@
         "720p": "http://following-scarlett-kismis-b9c9448e.koyeb.app/246054/%40Central_Links+Kanguva+%282024%29+Tamil+HQ+HDRip+-+x264+-+AAC+-+.mkv?hash=AgADrx",
         "1080p": "http://following-scarlett-kismis-b9c9448e.koyeb.app/246052/%40Central_Links+Kanguva+%282024%29+Tamil+HQ+HDRip+-+1080p+-+x264+.mkv?hash=AgADsx"
       }
+    },
+    {
+      "name": "Bloody Beggar",
+      "language": "Tamil",
+      "rating": 2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzEyZDEzYTQtZTU2OC00MzJjLWEyMWQtNDU2MzQwMzZiY2M3XkEyXkFqcGc@._V1_.jpg",
+      "watchLink": "http://following-scarlett-kismis-b9c9448e.koyeb.app/watch/246745/Bloody.Beggar.2024.1080p.HQ.AMZN.WEB-DL.DDP5.1.H.265-BiG.mkv?hash=AgADwg",
+      "downloadOptions": {
+         "480p": "",
+        "720p": "",
+        "1080p": ""
+      }
     }
   ]
